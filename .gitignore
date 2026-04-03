@@ -1,3 +1,8 @@
+*.log
+auth.*
+*.json
+.hermes_history
+.env
 *.db
 cron/
 bin/
@@ -11,4 +16,5 @@ platforms/
 *.db-shm
 *.db-wal
 sessions/
-
+hooks/
+cron/
