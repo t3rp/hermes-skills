@@ -1,0 +1,14 @@
+*.db
+cron/
+bin/
+channel_directory.json
+cron/
+gateway.pid
+gateway_state.json
+logs/
+memories/
+platforms/
+*.db-shm
+*.db-wal
+sessions/
+
