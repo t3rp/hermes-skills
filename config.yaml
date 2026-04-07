@@ -112,7 +112,7 @@ display:
   streaming: false
   inline_diffs: true
   show_cost: false
-  skin: default 
+  skin: default
   tool_progress_command: false
   tool_preview_length: 0
   tool_progress: verbose
